@@ -65,7 +65,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Responsive Design</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Responsive Web is very popular nowadays. I can make creative and outstanding design. See more on Portfolio.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -73,7 +73,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Web Security</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Security in a very crusial for everyone and also there company. I am really passonate about this system.</p>
                     </div>
                 </div>
             </div>
@@ -224,7 +224,7 @@
                                 <h4>2021-Present</h4>
                                 <h4 class="subheading">MOON INTERNATIONAL & IT ZONE</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Here I an working As an Assistant Engineer & Web Developer.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Here I am working As an Assistant Engineer & Web Developer.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
