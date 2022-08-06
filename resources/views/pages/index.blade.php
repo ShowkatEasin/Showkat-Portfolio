@@ -20,13 +20,14 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..."/></a>
+                <a class="navbar-brand" href="#page-top"><h3>Showkat Easin</h3></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                        
                         <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
@@ -38,9 +39,9 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To my Website</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <div class="masthead-subheading">Welcome To my Website...</div>
+                <div class="masthead-heading text-uppercase">Nice To Meet You</div>
+                <a class="btn btn-primary btn-xl text " href="#contact">Tell Me More</a>
             </div>
         </header>
         <!-- Services-->
@@ -48,7 +49,8 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Services</h2>
-                    <h3 class="section-subheading text-muted">Let's have a look at my services which I provide for your company</h3>
+                    <h3 class="section-subheading text-muted">Let's have a look at my services which I provide for your company. Mainly I prefer to make your service with <br>HTML | CSS | BOOTSTRAP | PHP | LARAVEL | MYSQL | VUE.JS
+                    </h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -184,7 +186,9 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">I am always looking for challanging work where I can ulilize my abilty to do any work</h3>
+                    <h3 class="section-subheading text-muted">I am always looking for challanging work where I can ulilize my abilty to do any work. <br> I am working on HTML | CSS | BOOTSTRAP | PHP | LARAVEL | MYSQL
+                        | VUE.JS
+                    </h3>
                 </div>
                 <ul class="timeline">
                     <li>
@@ -267,7 +271,8 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Feel free to massage me if you have any rerquirement.<br>
+                    For Emergency Purpose <br> Mobile : +88 0164 696 2234 <br> Email: shwokateasin@gmail.com</h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -330,7 +335,7 @@
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
+                    <div class="col-lg-4 text-lg-start">Showkat Easin</div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
