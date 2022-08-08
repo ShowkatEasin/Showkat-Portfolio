@@ -362,7 +362,7 @@
                                     <h2 class="text-uppercase">Grocery Online-Shop</h2>
                                     <p class="item-intro text-muted">It is done with HTML, CSS, JS</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Here I share the project link to see details about the project  "https://showkateasin.github.io/Grocery-Onlline-Shop/" </p>
+                                    <p>Here I share the project link to see details about the project  <a href="http://showkateasin.github.io/Grocery-Onlline-Shop">Visit Here</a> </p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Website :</strong>
@@ -397,7 +397,7 @@
                                     <h2 class="text-uppercase">Food Factory</h2>
                                     <p class="item-intro text-muted">It is done with HTML, CSS, JS.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Here I share the project link to see details about the project "https://showkateasin.github.io/Food-Factory/"</p>
+                                    <p>Here I share the project link to see details about the project <a href="http://showkateasin.github.io/Food-Factory">Visit Here</a></p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Website :</strong>
@@ -429,18 +429,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Personal Website</h2>
+                                    <p class="item-intro text-muted">This is my personal website where I use PHP LARAVEL.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>In a personal website and portfolio I can express all of my information and work criteria to all</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Finish
+                                            <strong>Website :</strong>
+                                            Personal
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Identity
+                                            Portfolio
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -464,18 +464,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">PSD Design</h2>
+                                    <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>At first, making a website planning and design are the main theme for developing a website</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Lines
+                                            <strong>Design : </strong>
+                                            Cove-page
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Branding
+                                            Design
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -499,18 +499,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">PSD Design</h2>
+                                    <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>At first, making a website planning and design are the main theme for developing a website</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Southwest
+                                            <strong>Design :</strong>
+                                            Cove-page
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Website Design
+                                            Cover-Design
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -534,18 +534,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Second Page of Web</h2>
+                                    <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>This is the second page of a Website . Which I design by Adobe Photoshop</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Window
+                                            <strong>Design:</strong>
+                                            Second-Page
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Photography
+                                            Web Design
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
