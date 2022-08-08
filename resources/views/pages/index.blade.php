@@ -85,7 +85,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Here I added my previous work to see.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
@@ -98,8 +98,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">E-Commerce</div>
+                                <div class="portfolio-caption-subheading text-muted">Responsive</div>
                             </div>
                         </div>
                     </div>
@@ -113,8 +113,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">Restaurent Website</div>
+                                <div class="portfolio-caption-subheading text-muted">Online Food Service</div>
                             </div>
                         </div>
                     </div>
@@ -128,8 +128,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Personal Website</div>
+                                <div class="portfolio-caption-subheading text-muted">Portfolio</div>
                             </div>
                         </div>
                     </div>
@@ -143,8 +143,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">Web Cover Design</div>
+                                <div class="portfolio-caption-subheading text-muted">PSD to HTML</div>
                             </div>
                         </div>
                     </div>
@@ -158,8 +158,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">Web Cover Design</div>
+                                <div class="portfolio-caption-subheading text-muted">PSD to HTML</div>
                             </div>
                         </div>
                     </div>
@@ -173,8 +173,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">Pages</div>
+                                <div class="portfolio-caption-subheading text-muted">PSD Design</div>
                             </div>
                         </div>
                     </div>
@@ -198,7 +198,7 @@
                                 <h4>2017-2021</h4>
                                 <h4 class="subheading">Complete my BSc. in Computer Engineering</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">In this term I have just completed my BSc. Graduation In Computer Science Engineering from "DAFFODIL INTERNATIONAL UNIVERSITY"</p></div>
+                            <div class="timeline-body"><p class="text-muted">In this term I have just completed my BSc. Graduation In Computer Science and Engineering from <br> "DAFFODIL INTERNATIONAL UNIVERSITY"</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -208,7 +208,7 @@
                                 <h4>2017-2018</h4>
                                 <h4 class="subheading">Courses & Certification</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">In this years I have completed WEB DESIGN & WEB DEVELOPMENT courses from CREATIVE IT INSTITUDE & BITM</p></div>
+                            <div class="timeline-body"><p class="text-muted">In this years I have completed WEB DESIGN & WEB DEVELOPMENT courses from "CREATIVE IT INSTITUDE" & "BITM"</p></div>
                         </div>
                     </li>
                     <li>
@@ -359,7 +359,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Grocery Online-Shop</h2>
+                                    <h3 class="text-uppercase">Grocery Online-Shop</h3>
                                     <p class="item-intro text-muted">It is done with HTML, CSS, JS</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
                                     <p>Here I share the project link to see details about the project  <a href="http://showkateasin.github.io/Grocery-Onlline-Shop">Visit Here</a> </p>
@@ -394,7 +394,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Food Factory</h2>
+                                    <h3 class="text-uppercase">Food Factory</h3>
                                     <p class="item-intro text-muted">It is done with HTML, CSS, JS.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
                                     <p>Here I share the project link to see details about the project <a href="http://showkateasin.github.io/Food-Factory">Visit Here</a></p>
@@ -429,7 +429,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Personal Website</h2>
+                                    <h3 class="text-uppercase">Personal Website</h3>
                                     <p class="item-intro text-muted">This is my personal website where I use PHP LARAVEL.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
                                     <p>In a personal website and portfolio I can express all of my information and work criteria to all</p>
@@ -464,7 +464,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">PSD Design</h2>
+                                    <h3 class="text-uppercase">PSD Design</h3>
                                     <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
                                     <p>At first, making a website planning and design are the main theme for developing a website</p>
@@ -499,7 +499,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">PSD Design</h2>
+                                    <h3 class="text-uppercase">PSD Design</h3>
                                     <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
                                     <p>At first, making a website planning and design are the main theme for developing a website</p>
@@ -534,7 +534,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Second Page of Web</h2>
+                                    <h3 class="text-uppercase">Second Page of Web</h3>
                                     <p class="item-intro text-muted">This is a PSD design for web cover-page which I made by Adobe Photoshop.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
                                     <p>This is the second page of a Website . Which I design by Adobe Photoshop</p>
