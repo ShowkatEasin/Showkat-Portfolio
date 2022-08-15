@@ -95,7 +95,7 @@
                                 Main
                             </a>
 
-                            <a class="nav-link" href="{{route('admin.services')}}">
+                            <a class="nav-link" href="#">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tasks"></i></div>
                                 Services
                             </a>

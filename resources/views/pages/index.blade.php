@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="masthead-subheading">Welcome To my Website...</div>
                 <div class="masthead-heading text-uppercase">Nice To Meet You</div>
-                <a class="btn btn-primary btn-xl text " href="#contact">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text " href="#">See Resume</a>
             </div>
         </header>
         <!-- Services-->
