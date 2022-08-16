@@ -1,13 +1,14 @@
 <?php
 
-use App\Http\Controllers\PagesController;
+use App\Http\Controllers\MainPagesController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
 
+
 Route::get('/',[PagesController::class, 'index'])->name('home');
 Route::get('/admin/dashboard',[PagesController::class, 'dashboard'])->name('admin.dashboard');
-Route::get('/admin/main',[MainPagesController::class, 'index'])->name('admin.main');
+Route::get('/admin/main',[PagesController::class, 'main'])->name('admin.main');
 
 
 //Route::get('/admin/services',[PagesController::class, 'services'])->name('admin.services');
